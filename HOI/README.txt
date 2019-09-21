@@ -1,6 +1,6 @@
 将权重文件放到output目录下
 	例如： ./output/HOI_iter_250000.pth
-		   ./output/res50_faster_rcnn_iter_1190000.pth
+	      ./output/res50_faster_rcnn_iter_1190000.pth
 
 测试:
     python tools/hoi_detection.py --demo 0 --type camera
